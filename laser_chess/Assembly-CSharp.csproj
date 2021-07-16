@@ -63,9 +63,10 @@
     <Compile Include="Assets\MagicMirror\Prefab\MirrorReflectionScript.cs" />
     <Compile Include="Assets\Scripts\LaserBeam.cs" />
     <Compile Include="Assets\Scripts\ShootLaser.cs" />
+    <Compile Include="Assets\Scripts\LaserBeamBlue.cs" />
+    <Compile Include="Assets\Scripts\ShootLaserBlue.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Materials\hgfedsh.shader" />
     <None Include="Assets\MagicMirror\Prefab\Readme.txt" />
     <None Include="Assets\MagicMirror\Prefab\MirrorShader.shader" />
     <None Include="Assets\MagicMirror\Prefab\MirrorShaderBumpMap.shader" />
