@@ -56,15 +56,19 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\UI Script\Title.cs" />
+    <Compile Include="Assets\Scripts\LaserBeamBlue.cs" />
     <Compile Include="Assets\MagicMirror\Prefab\MirrorScript.cs" />
     <Compile Include="Assets\MagicMirror\Prefab\MirrorCameraScript.cs" />
     <Compile Include="Assets\MagicMirror\Demo\DemoScript.cs" />
     <Compile Include="Assets\Scripts\TriangularPole.cs" />
     <Compile Include="Assets\MagicMirror\Prefab\MirrorReflectionScript.cs" />
+    <Compile Include="Assets\Scripts\ShootLaserBlue.cs" />
     <Compile Include="Assets\Scripts\LaserBeam.cs" />
     <Compile Include="Assets\Scripts\ShootLaser.cs" />
-    <Compile Include="Assets\Scripts\LaserBeamBlue.cs" />
-    <Compile Include="Assets\Scripts\ShootLaserBlue.cs" />
+    <Compile Include="Assets\Scripts\Red_RecKnight_Clicked.cs" />
+    <Compile Include="Assets\Scripts\Cursor\MouseCursor.cs" />
+    <Compile Include="Assets\Scripts\Cursor\MouseMoving.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\MagicMirror\Prefab\Readme.txt" />

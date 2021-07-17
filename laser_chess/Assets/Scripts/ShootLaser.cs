@@ -13,3 +13,4 @@ public class ShootLaser : MonoBehaviour
         beam1 = new LaserBeam(gameObject.transform.position, gameObject.transform.right, material);
     }
 }
+
